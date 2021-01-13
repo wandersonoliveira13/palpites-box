@@ -1,0 +1,13 @@
+.wrapper{
+    background-color: black;
+    padding: 8px;
+}
+.navBar{
+    background-color: darkgrey;
+    text-align: center;
+    padding: 5px;
+}
+.wrapperFooter{
+    background-color: darkgrey;
+    padding: 10px;
+}
